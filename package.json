@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/id-natus-animi-modi",
-  "version": "1.5.44",
+  "version": "1.5.45",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -293,5 +293,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/id-natus-animi-modi/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
